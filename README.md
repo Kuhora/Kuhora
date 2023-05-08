@@ -2,8 +2,14 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccffff&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Matheus+Fragasse;I'm+18+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kuhora&show_icons=true&count_private=true&hide_border=true&title_color=ccffff&icon_color=ffaf00&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Fragasse stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuhora&layout=compact&hide_border=true&title_color=ccfbff&text_color=ccfbff&bg_color=0d1117" />
+</div>
+
+
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kuhora&theme=gotham)
-  
+
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
